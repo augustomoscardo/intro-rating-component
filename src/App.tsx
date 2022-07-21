@@ -13,7 +13,7 @@ function App() {
 
   return (
     <RatingProvider>
-      <div className="sm:max-w-[375px] max-w-[1440px]  sm:p-2 mx-auto my-0 h-screen flex justify-center items-center">
+      <div className="sm:max-w-[375px] max-w-[1440px] p-2 mx-auto my-0 h-screen flex justify-center items-center">
         {isSubmitted ? <ThankYou /> : <Rate handleSubmit={handleSubmit} />}
       </div>
       <Toaster />
