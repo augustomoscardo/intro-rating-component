@@ -1,6 +1,11 @@
 export const ThankYouIcon = () => {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" width="162" height="108">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="162"
+      height="108"
+      className="mt-10"
+    >
       <g fill="none">
         <path
           fill="#E6E6E6"
