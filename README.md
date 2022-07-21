@@ -10,9 +10,13 @@ First, run the development server:
 
 # Project view
 
-  <img src="public/img/desktop-design.jpg" alt="Desktop design" width="300" height="150">
-  <img src="public/img/active-states.jpg" alt="Desktop design" width="300" height="150">
-  <img src="public/img/mobile-design.jpg" alt="Mobile design" width="200" height="400">
+  <div>
+    <img src="public/img/desktop-design.jpg" alt="Desktop design" width="300" height="150">
+    <img src="public/img/active-states.jpg" alt="Desktop design" width="300" height="150">
+    <img src="public/img/desktop-thank-you-state.jpg" alt="Desktop design" width="300" height="150">
+    <img src="public/img/mobile-design.jpg" alt="Mobile design" width="200" height="400">
+    <img src="public/img/mobile-thank-you-state.jpg" alt="Mobile design" width="200" height="400">
+  </div>
 
 ## Technologies
 
