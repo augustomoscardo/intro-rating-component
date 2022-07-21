@@ -19,6 +19,7 @@ First, run the development server:
     <img src="public/img/mobile-design.jpg" alt="Mobile design" width="200" height="400">
     <img src="public/img/mobile-thank-you-state.jpg" alt="Mobile design" width="200" height="400">
   </div>
+  
 ## Technologies
 
 - Vite
