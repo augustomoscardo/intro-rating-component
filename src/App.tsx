@@ -16,7 +16,7 @@ function App() {
       <div className="sm:max-w-[375px] max-w-[1440px] p-4 mx-auto my-0 h-screen flex justify-center items-center flex-col">
         {isSubmitted ? <ThankYou /> : <Rate handleSubmit={handleSubmit} />}
 
-        <div className="flex gap-4 mt-10">
+        <div className="flex gap-4 mt-10 sm:flex-col">
           <p className="text-gray-300">
             Challenge by{" "}
             <a
